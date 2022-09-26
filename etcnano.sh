@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 pkill -9 lolMiner
 sleep 9
 pkill -9 lolMiner
